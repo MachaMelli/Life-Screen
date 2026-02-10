@@ -1,9 +1,8 @@
-<h1>
-  <img src="public/logo.jpeg" alt="Life Screen Logo" width="60" align="left" />
-  &nbsp;&nbsp;Life Screen
-</h1>
+<p align="left">
+  <img src="public/logo.jpeg" alt="Life Screen Logo" width="60" />
+</p>
 
-<br clear="left"/>
+# Life Screen
 
 > _"Time is the only currency we truly own. Witness the brevity and beauty of your journey on a single canvas."_
 
